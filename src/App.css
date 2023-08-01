@@ -1,0 +1,57 @@
+/* .App {
+  text-align: center;
+} */
+.form_main {
+  width: 40%;
+  margin-bottom: 10px;
+  margin: auto;
+  margin-top: 8rem;
+  background: #fc354c;
+  background: -webkit-linear-gradient(
+    to right,
+    #0abfbc,
+    #fc354c
+  );
+  background: linear-gradient(
+    to right,
+    #0abfbc,
+    #fc354c
+  );
+}
+.main_container {
+  height: 100vh;
+}
+.user_main {
+
+  width: 42.3%;
+  margin-left: 25rem;
+}
+.user {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0.5rem 0 0.5rem 0.5rem;
+  width: 100%;
+  margin: auto;
+  list-style: none;
+  background: #fc354c;
+  background: -webkit-linear-gradient(
+    to right,
+    #0abfbc,
+    #fc354c
+  ); 
+  background: linear-gradient(
+    to right,
+    #0abfbc,
+    #fc354c
+  );
+}
+.delete {
+  font-size: 1.5rem;
+  margin-left: 34.8rem;
+  position: fixed;
+}
+.ul_list{
+  width: 100%;
+  margin-left: 0.7rem;
+}
